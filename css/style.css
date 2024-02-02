@@ -25,7 +25,9 @@ body {
   line-height: 1.65;
   overflow-y: hidden;
 }
-
+.bld{
+  font-weight: bold;
+}
 body.loaded {
   overflow-y: scroll;
 }
